@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Redux-cart/static/css/main.5f220d74.chunk.css",
+    "main.js": "/Redux-cart/static/js/main.d30e87df.chunk.js",
+    "main.js.map": "/Redux-cart/static/js/main.d30e87df.chunk.js.map",
+    "runtime-main.js": "/Redux-cart/static/js/runtime-main.96534221.js",
+    "runtime-main.js.map": "/Redux-cart/static/js/runtime-main.96534221.js.map",
+    "static/js/2.e5fd4794.chunk.js": "/Redux-cart/static/js/2.e5fd4794.chunk.js",
+    "static/js/2.e5fd4794.chunk.js.map": "/Redux-cart/static/js/2.e5fd4794.chunk.js.map",
+    "index.html": "/Redux-cart/index.html",
+    "static/css/main.5f220d74.chunk.css.map": "/Redux-cart/static/css/main.5f220d74.chunk.css.map",
+    "static/js/2.e5fd4794.chunk.js.LICENSE.txt": "/Redux-cart/static/js/2.e5fd4794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96534221.js",
+    "static/js/2.e5fd4794.chunk.js",
+    "static/css/main.5f220d74.chunk.css",
+    "static/js/main.d30e87df.chunk.js"
+  ]
+}
